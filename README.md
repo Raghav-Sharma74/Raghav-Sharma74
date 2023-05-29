@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raghav-Sharma74
-- 👀 I’m interested in ... Coding,Cars,Video Games,etc.
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...you can mail me on rsofficial74@gmail.com
