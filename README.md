@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raghav-Sharma74
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... all sorts of things
+- 🌱 I’m currently learning ... frontend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...you can mail me on rsofficial74@gmail.com
 
